@@ -1,4 +1,6 @@
 # for loop with Break
+# after for loop ypu have to learn all lops & structure of the program
+
 
 key_location="chair"
 location=["Sofa","garage","chair","table","closet"]
